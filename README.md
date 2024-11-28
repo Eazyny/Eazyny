@@ -1,4 +1,4 @@
-👋 Hi there! I'm @Eazyny
+👋 Hi there! I'm @Eazy
 👀 I’m interested in saltwater reef ecosystems, gaming, NFTs, and 3D graphics/dev. Oh, and talking about science, life, and the origins of humanity for hours. 🌀
 🌱 I’m currently learning frontend development and optimizing my 3D portfolio for mobile & tablet (tablets deserve love too, you know!).
 💞️ I’m looking to collaborate on innovative gaming projects, NFT utilities, and anything that pushes creative boundaries in Web3.
