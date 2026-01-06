@@ -1,10 +1,28 @@
-👋 Hi there! I'm @Eazy
-👀 I’m interested in saltwater reef ecosystems, gaming, NFTs, and 3D graphics/dev. Oh, and talking about science, life, and the origins of humanity for hours. 🌀
-🌱 I’m currently learning frontend development and optimizing my 3D portfolio for mobile & tablet (tablets deserve love too, you know!).
-💞️ I’m looking to collaborate on innovative gaming projects, NFT utilities, and anything that pushes creative boundaries in Web3.
-📫 How to reach me: Slide into my DMs e(eazy@blockchaineazy.com) or find me in the Troverse community (Tromies unite!).
-😄 Pronouns: He/Him
-⚡ Fun fact: I work on an NFT gaming project where galaxies, gaming, and community collide. Also, I believe coffee is a universal development tool. ☕🚀
+👋 Sup! I’m Eazy
+
+I’ve spent years in customer service across hotels, hospitals, and Web3/gaming communities—handling high-volume support, troubleshooting, writing documentation, and doing that “figure it out fast” problem-solving. Now I’m focused on IT Support / Help Desk while still building in web + 3D on the side.
+
+🔧 IT focus
+- Windows 10/11 • hardware/software troubleshooting • remote support  
+- Networking fundamentals: DNS / TCP/IP / DHCP / Wi-Fi troubleshooting  
+- Runbooks + documentation (my favorite kind of leverage)
+
+🎮 Creative side
+- 3D graphics/dev • web design  
+- Gaming  
+- Web3 product + community ops
+
+🧠 Interests
+- Crypto  
+- Dogs (I’ve got a Frenchie 🐾)  
+- Saltwater fish tanks  
+- Baseball  
+- Basketball  
+
+📌 Check my pinned repos for my IT Support Runbook + labs  
+📫 eazy@blockchaineazy.com  
+⚡ Fun fact: I treat problems like boss fights—learn the pattern, beat it clean 🗡️
+
 
 <!---
 Eazyny/Eazyny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
